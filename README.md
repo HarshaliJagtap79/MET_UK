@@ -1,3 +1,4 @@
+
 # weather-data
 Django app to parse summarised weather data available from UK MetOffice \
 API service hosted on AWS EC2: http://54.88.21.167:8000/summary/
